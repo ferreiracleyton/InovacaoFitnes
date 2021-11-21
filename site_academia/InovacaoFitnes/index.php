@@ -176,7 +176,7 @@
             </tr>
             <tr>
               
-              <td colspan="2" class="text-center pl-0"><button type="submit" class="btn btn-dark"></            <li><a href="https://alanalmeidaaa10@gmail.com"</a> MANDAR</td>
+              <td colspan="2" class="text-center pl-0"><button type="submit" class="btn btn-dark"></button >           <li><a href="https://alanalmeidaaa10@gmail.com"</a> MANDAR</td>
               
             </tr>
           </table>
